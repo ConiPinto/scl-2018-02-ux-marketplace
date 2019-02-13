@@ -86,12 +86,19 @@ Se realizó testeo del prototipo de baja fidelidad con una muestra de 5 usuarios
 
 **Objetivo del testeo**
 
+Los testeos en el prototipo de baja fidelidad se realizaron con el objetivo de mejorar la visualización de cada una de las opciones mostradas en el sketch, también para observar que tan fácil era para el usuario testeado entender cada una de las funciones (mediante la realización de pequeñas tareas) que se deseaban aplicar posteriormente en el prototipo de alta fidelidad y para corroborar si la información mostrada era entendida por el receptor de manera correcta.
+
 **Casos a estudiar**
-Se les pidio al usuario hacer algunas tareas
 
-1) Se le pidió al usuario que realizar una compra
+Se le pidió a cada usuario realizar pequeñas tareas para ver como éste interactuaba con el sketch.
 
-2) Se le dio la tarea de contactar a la tienda
+Algunas de las tareas fueron: 
+
+1) Se le pidió que buscara un producto de su agrado
+2) Se le pidió posteriormente que comprara el producto
+3) Se le dio la tarea de contactar con la tienda
+4) Se pidió que se informara más sobre la marca
+5) Se le dio la tarea de ...
 
 **Conclusiones del testeo**
 
@@ -106,18 +113,31 @@ Se les pidio al usuario hacer algunas tareas
 
 (Agregar foto de testeo)
 
-Se realizó testeo del prototipo de alta fidelidad con una muestra de 4 usuarios.
+Se realizó un testeo del prototipo de alta fidelidad a una cantidad de 4 usuarios que suelen normalmente comprar productos naturales por internet.
 
 **Objetivo del testeo**
 
+El objetivos del testeo al prototipo de alta fidelidad es mejorar la interacción y compresión del usuario con el producto testeado. Se busca llegar a un resultado de interacción usuario/producto más intuitivo, con un diseño simple, atractivo y limpio.
+
 **Casos a estudiar**
-Se les pidio al usuario hacer algunas tareas para evaluar
+Se les pidió al usuario hacer algunas tareas para evaluar la eficacia con la que lograban llevar a cabo cada una de estas.
+
+Algunas de estas tareas fueron:
+
+1) Se le pidió que buscara un producto de su agrado
+2) Se le pidió posteriormente que comprara el producto
+3) Se le dio la tarea de contactar con la tienda
+4) Se pidió que se informara más sobre la marca
+5) Se le dio la tarea de ...
+
+
 
 **Conclusiones del testeo**
 
-- El tamaño de las letras que salen en el footer no permiten leer al usuario con claridad
+- El tamaño de la tipografía usada en el footer no permiten leer al usuario con claridad
 - Dar más espacio entre las categorías y subcategorías del navbar
-- Ajustar los botones del “Seguir comprando” y “Comprar” carrito de compra al tamaño de la pantalla, evitar que el usuario tenga que hacer scroll para ver toda la información de la compra.
+- Modificar el botón de "carrito de compras" para hacer que sobresalga del resto de opciones.
+- Cambiar largo del carro de compras desplegable, ya que el usuario tiende a no hacer scroll y por lo tanto a asumir que no hay botón de compra. 
 - Que el icono que indica que se a añadido un producto al carrito de compra sea más notorio, ya que pasa desapercibido para el usuario
 - El Modal que aparece al finalizar una compra debe de indicar que se enviará un correo con la información de la compra realizada   
 
